@@ -27,11 +27,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by:Agalya R 
 RegisterNumber:212222040003
 
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: E.Karthika
-RegisterNumber: 212222040072
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
